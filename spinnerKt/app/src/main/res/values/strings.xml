@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">spinnerKt</string>
+    <string-array name="Countries">
+        <item>England</item>
+        <item>Kenya</item>
+        <item>Egypt</item>
+        <item>USA</item>
+        <item>Japan</item>
+    </string-array>
+</resources>
